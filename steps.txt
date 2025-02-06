@@ -1,0 +1,7 @@
+STEP 1 : first we imported various types of modules 
+
+STEP 2 : Used pyttsx3 to speak out text
+
+STEP 3 : A. using one of the function of speak recog module copied form code snippet for it copied from chat gpt
+        
+        983fa42b98554ef0af68824ed7b2948c
