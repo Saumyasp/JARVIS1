@@ -88,14 +88,11 @@ if __name__ == "__main__":
                      command = r.recognize_google(audio)
                    
                      processcommand(command) 
-                     print("e")
-                     print("e")
-                     print("e")
-            
+                     
         except Exception as e:
             print("Error;{0}".format(e))
         except sr.RequestError:
                 print("Sorry, the service is unavailable or there's an issue with the API.")
                 
                 
-                ## holowwowahfosdhfsao
+              
